@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrboo
+- 👋 Hi, I’m Mr Boo
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning about game development
 - 📫 How to reach me mrboostudios@gmail.com
