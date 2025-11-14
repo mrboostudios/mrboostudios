@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr Boo
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning about game development
+- 🌱 I’m currently learning Monogame
 - 📫 How to reach me mrboostudios@gmail.com
 
 <!---
